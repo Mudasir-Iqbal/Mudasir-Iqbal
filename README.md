@@ -2,8 +2,13 @@
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Final-Year+CS+Student+%40+SMIU+🎓;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Building+Autonomous+Solutions+⚡;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  <em>Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.</em>
+</p>
+
 
 <p align="center">
   <em>"Driven to build intelligent software that solves real-world problems."</em><br>
