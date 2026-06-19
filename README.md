@@ -20,14 +20,17 @@
 
 ### 🚀 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗶𝘁𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: `whoami`
 
+### 🚀 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗶𝘁𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: `whoami`
+
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding.gif" alt="Hacker GIF" />
 
 I am a computer science developer transitioning from academic theory into building **production-grade AI systems**. My core passion is **Agentic AI**—moving beyond chatbots to create systems that can reason, plan, and autonomously execute complex workflows.
 
 - 🧠 **Primary Matrix:** Agentic Workflows, Multi-Agent Systems, Machine Learning.
+- ⚡ **Backend Architectures:** Engineering high-performance, asynchronous APIs using **FastAPI** to serve complex AI models and agentic logic.
 - 👁️ **Vision Pipelines:** Real-time object detection and facial landmarks (OpenCV, MediaPipe).
-- ⚙️ **Hardware & Optics:** Integrating software with physical systems, including network architectures, Linux environments, and specialized hardware like the **Photron FASTCAM Nova R3-4K** for high-speed analysis.
-- 🎯 **Current Objective:** Developing interactive Streamlit applications and robust Python logic loops.
+- ⚙️ **System Operations:** Bridging software with core infrastructure, including Linux environments, network architectures, and distributed systems.
+- 🎯 **Current Objective:** Developing robust **FastAPI** endpoints to power autonomous AI agents, alongside interactive Streamlit dashboards for real-time telemetry.
 
 <br clear="both">
 
