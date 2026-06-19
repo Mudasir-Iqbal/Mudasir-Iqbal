@@ -1,86 +1,218 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=250&section=header&text=Muhammad%20Mudasir%20Sheikh&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Agentic%20AI%20Architect%20|%20Python%20Developer&descAlignY=55&descSize=20&animation=twinkling"/>
-</div>
-
-<br>
+<!-- ========================================= -->
+<!--            MUHAMMAD MUDASIR SHEIKH        -->
+<!-- ========================================= -->
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=Final-Year+CS+Student+%40+SMIU+🎓;Engineering+Autonomous+AI+Agents+🤖;Mastering+Computer+Vision+%26+NLP+👁️" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=280&section=header&text=Muhammad%20Mudasir%20Sheikh&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Agentic%20AI%20Engineer%20|%20Python%20Developer%20|%20CS%20Student&descAlignY=58&descSize=22"/>
+
+# 🚀 Muhammad Mudasir Sheikh
+
+### Building Autonomous AI Systems That Think, Plan & Execute
+
+*"The future isn't AI that answers questions. The future is AI that completes objectives."*
+
+<p>
+  <a href="https://linkedin.com/in/mudasir-sheikh">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
 
-<p align="center">
-  <a href="https://pk.linkedin.com/in/mudasir-sheikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@stu.smiu.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:CSC23S209@stu.smiu.edu.pk">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Agentic+AI+Engineer+%F0%9F%A4%96;Building+Autonomous+AI+Systems+%E2%9A%A1;FastAPI+Backend+Developer+%F0%9F%9A%80;Computer+Vision+%7C+LLMs+%7C+RAG+%F0%9F%A7%A0;Final-Year+Computer+Science+Student+%F0%9F%8E%93"/>
 
-### 🤖 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
-
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding.gif" alt="Hacker GIF" />
-
-I am a computer science developer transitioning from academic theory into building **production-grade AI systems**. My core passion is **Agentic AI**—moving beyond chatbots to create systems that can reason, plan, and autonomously execute complex workflows.
-
-- 🧠 **Primary Matrix:** Agentic Workflows, Multi-Agent Systems, Machine Learning.
-- ⚡ **Backend Architectures:** Engineering high-performance, asynchronous APIs using **FastAPI** to serve complex AI models and agentic logic.
-- 👁️ **Vision Pipelines:** Real-time object detection and facial landmarks (OpenCV, MediaPipe).
-- ⚙️ **System Operations:** Bridging software with core infrastructure, including Linux environments, network architectures, and distributed systems.
-- 🎯 **Current Objective:** Developing robust **FastAPI** endpoints to power autonomous AI agents, alongside interactive Streamlit dashboards for real-time telemetry.
-
-<br clear="both">
+</div>
 
 ---
 
-### 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗲𝗹𝗲𝗺𝗲𝘁𝗿𝘆 & 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
+# ⚡ About Me
+
+I am a **Computer Science student at SMIU** focused on building the next generation of **Agentic AI Systems**.
+
+While many developers build applications, I am focused on engineering intelligent systems capable of:
+
+- Reasoning
+- Planning
+- Memory Management
+- Tool Usage
+- Autonomous Execution
+
+My mission is simple:
+
+> Transform AI from a chatbot into a digital workforce.
+
+---
+
+# 🎯 Current Focus
+
+- 🤖 Agentic AI Systems
+- 🧠 Multi-Agent Architectures
+- ⚡ FastAPI Backend Engineering
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
+- 🐧 Linux & System Design
+- ☁️ AI Infrastructure & Deployment
+
+---
+
+# 🧠 Learning Roadmap
+
+```text
+Python Fundamentals
+      ↓
+Backend Engineering (FastAPI)
+      ↓
+Machine Learning
+      ↓
+Large Language Models
+      ↓
+RAG Systems
+      ↓
+Agentic AI Workflows
+      ↓
+Multi-Agent Systems
+      ↓
+Autonomous AI Products
+```
+
+# 🚀 What I'm Building
+
+### Agentic AI Ecosystem
+
+Developing intelligent systems capable of:
+
+✅ Long-Term Memory
+
+✅ Tool Calling
+
+✅ Workflow Automation
+
+✅ Multi-Step Reasoning
+
+✅ Autonomous Planning
+
+✅ API Integrations
+
+✅ Human-in-the-Loop Control
+
+---
+
+# 🛠 Tech Stack
+
+## Languages & Backend
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Mudasir-Iqbal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasir-Iqbal&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,bash,linux,docker,git,vscode&theme=dark"/>
+
+</div>
+
+## AI & Machine Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LangChain-Agent_Framework-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-Agentic_Systems-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-LLMs-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MediaPipe-Real_Time_AI-00B2FF?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🏗 Engineering Interests
+
+```python
+focus = {
+    "AI": [
+        "Agentic AI",
+        "Multi-Agent Systems",
+        "LLMs",
+        "RAG Pipelines"
+    ],
+
+    "Backend": [
+        "FastAPI",
+        "REST APIs",
+        "Async Programming",
+        "Microservices"
+    ],
+
+    "Vision": [
+        "OpenCV",
+        "MediaPipe",
+        "Object Detection"
+    ],
+
+    "Infrastructure": [
+        "Linux",
+        "Docker",
+        "Distributed Systems"
+    ]
+}
+```
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasir-Iqbal&theme=radical&hide_border=true"/>
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mudasir-Iqbal&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudasir-Iqbal&layout=compact&theme=radical&hide_border=true"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Side by Side Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mudasir-Iqbal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudasir-Iqbal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mudasir-Iqbal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF"/>
 
-<div align="center">
-  <!-- Live Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mudasir-Iqbal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF" width="100%" />
 </div>
 
 ---
 
-### 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸
+# 🌍 Connect With Me
 
 <div align="center">
-  <h4>Languages & Backend Architecture</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,bash,linux&theme=dark" /></a>
-  <br><br>
-  <h4>Computer Vision & DevOps</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv,docker,git,vscode&theme=dark" /></a>
-  <br><br>
-  <h4>Agentic AI Frameworks</h4>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <br><br>
-  <h4>Data & UI Dashboards</h4>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-00B2FF?style=for-the-badge&logo=google&logoColor=white" />
+
+<a href="https://linkedin.com/in/mudasir-sheikh">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:CSC23S209@stu.smiu.edu.pk">
+<img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
+# 🔥 Vision
+
+> I am not learning AI to build another chatbot.
+>
+> I am learning AI to build autonomous systems capable of solving real-world problems with minimal human intervention.
+
+### Agentic AI is not the future. It is the present—and I'm building it.
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=SYSTEM+HITS&color=00FF99&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge"/>
+
+### ⭐ Building the Future of Autonomous Intelligence
+
 </div>
