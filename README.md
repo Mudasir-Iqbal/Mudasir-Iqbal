@@ -18,9 +18,7 @@
 
 ---
 
-### 🚀 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗶𝘁𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: `whoami`
-
-### 🚀 𝗦𝘆𝘀𝘁𝗲𝗺 𝗜𝗻𝗶𝘁𝗶𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻: `whoami`
+### 🤖 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
 
 <img align="right" width="320" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding.gif" alt="Hacker GIF" />
 
@@ -36,7 +34,7 @@ I am a computer science developer transitioning from academic theory into buildi
 
 ---
 
-### 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗲𝗹𝗲𝗺𝗲𝘁𝗿𝘆 & 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
+### 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗲𝗹𝗲𝗺𝗲𝘁𝗿𝘆 & 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
 
 <div align="center">
   <!-- GitHub Streak Stats -->
@@ -65,13 +63,18 @@ I am a computer science developer transitioning from academic theory into buildi
 ### 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸
 
 <div align="center">
-  <h4>Languages & Core</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,bash,linux&theme=dark" /></a>
+  <h4>Languages & Backend Architecture</h4>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,bash,linux&theme=dark" /></a>
   <br><br>
-  <h4>AI, Vision & Deployment</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv,git,github,vscode&theme=dark" /></a>
+  <h4>Computer Vision & DevOps</h4>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv,docker,git,vscode&theme=dark" /></a>
   <br><br>
+  <h4>Agentic AI Frameworks</h4>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentic_AI-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <br><br>
+  <h4>Data & UI Dashboards</h4>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/MediaPipe-00B2FF?style=for-the-badge&logo=google&logoColor=white" />
 </div>
