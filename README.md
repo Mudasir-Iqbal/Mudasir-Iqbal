@@ -35,8 +35,8 @@
 ---
 
 ### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
-
-
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding GIF" />
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" />
 <img align="right" width="300" src="https://media.giphy.com/media/YWf50NNii3WI4Sq6fZ/giphy.gif" alt="Coding GIF" />
 
 I am a passionate **Final-Year Computer Science Student** specializing in Python development and building autonomous systems. I bridge the gap between academic theory and practical implementation by engineering functional AI prototypes, APIs, and web applications.
