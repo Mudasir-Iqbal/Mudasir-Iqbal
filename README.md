@@ -50,24 +50,7 @@
 
 ---
 
-### 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 & 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
-*Ye cards real-time mein aapki GitHub activity ke hisaab se auto-update (animate) hotay hain.*
-
 <div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/Mudasir-Iqbal">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mudasir-Iqbal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FF99&text_color=FFFFFF&bg_color=0D1117" width="48%" />
-  </a>
-  
-  <!-- GitHub Streak Card -->
-  <a href="https://github.com/Mudasir-Iqbal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasir-Iqbal&theme=tokyonight&hide_border=true&title_color=00FF99&text_color=FFFFFF&bg_color=0D1117" width="48%" />
-  </a>
-
+  <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
 </div>
 
----
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mudasir-Iqbal/count.svg" alt="Profile Views" />
-</div>
