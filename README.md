@@ -51,6 +51,16 @@
 ---
 
 <div align="center">
+  
+  <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing ke liye -->
+
+  <!-- High-Impact LinkedIn Button -->
+  <a href="https://pk.linkedin.com/in/mudasir-sheikh">
+    <img src="https://img.shields.io/badge/Connect_with_Muhammad_Mudasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+
 </div>
 
