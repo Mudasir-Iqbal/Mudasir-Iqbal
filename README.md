@@ -2,15 +2,8 @@
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Building+Autonomous+Solutions+⚡;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Building+Autonomous+Solutions+⚡;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
 </a>
-
-
-
-<p align="center">
-  <em>Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.</em>
-</p>
-
 
 <p align="center">
   <em>"Driven to build intelligent software that solves real-world problems."</em><br>
@@ -27,17 +20,19 @@
 
 <br><br>
 
+<!-- Waving Robot -->
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="100" alt="Waving Robot" />
+
 <!-- Cybernetic Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 </div>
 
+---
 
-<p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tNWdhbGVjeTkzbXlhYnlkbjlhbXJqbG5nbTFxY244dWZvNDlmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G7Y5EbkYe81CuwrJhq/giphy.gif"
-    width="350"
-    alt="Building AI Agents"
-  />
-</p>
+### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
+
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tNWdhbGVjeTkzbXlhYnlkbjlhbXJqbG5nbTFxY244dWZvNDlmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G7Y5EbkYe81CuwrJhq/giphy.gif" alt="AI Agent Coding GIF" />
 
 I am a passionate **Final-Year Computer Science Student** specializing in Python development and building autonomous systems. I bridge the gap between academic theory and practical implementation by engineering functional AI prototypes, APIs, and web applications.
 
