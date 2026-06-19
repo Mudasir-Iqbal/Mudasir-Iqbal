@@ -36,7 +36,7 @@
 
 ### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
+
 <img align="right" width="300" src="https://media.giphy.com/media/YWf50NNii3WI4Sq6fZ/giphy.gif" alt="Coding GIF" />
 
 I am a passionate **Final-Year Computer Science Student** specializing in Python development and building autonomous systems. I bridge the gap between academic theory and practical implementation by engineering functional AI prototypes, APIs, and web applications.
