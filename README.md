@@ -6,8 +6,7 @@
 - ⚡ Fun fact: Agents lover
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mudasir-sheikh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/mudasir-sheikh?trk=profile-badge">Muhammad Mudasir Sheikh</a></div>
-              
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Mudasir_Sheikh-blue?style=flat&logo=linkedin)](https://pk.linkedin.com/in/mudasir-sheikh)
 
 <!---
 Mudasir-Iqbal/Mudasir-Iqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
