@@ -1,139 +1,250 @@
-<!-- ==========================================
-     MUDASIR_OS // LIVING NEURAL INTERFACE
-     ========================================== -->
-
 <div align="center">
 
-<!-- 1. FULL WIDTH CYBERNETIC HEADER GIF -->
-<img src="https://i.pinimg.com/originals/a4/82/01/a48201b2a95c5ce8b10bc63dcc1b47ee.gif" width="100%" height="220" style="object-fit: cover; border-radius: 12px;" alt="Cyber HUD" />
-
-<!-- 2. BOOT SEQUENCE (AUTO-TYPING) -->
-<br><br>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=40&duration=3000&pause=500&color=00FF99&center=true&vCenter=true&width=1000&height=60&lines=WELCOME+TO+MUDASIR.AI;AUTONOMOUS_ENTITY_ONLINE;ENGINEERING_AGENTIC_SYSTEMS" alt="Main Title" />
-</a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=18&duration=4000&pause=1000&color=00d9ff&center=true&vCenter=true&width=800&height=40&lines=>>>+Initializing+FastAPI+Core...;>>>+Booting+Computer+Vision+Optics...;>>>+Establishing+Neural+Pathways...;>>>+System+Integrity+at+100%25" alt="Sub Title" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00ff99,50:00d9ff,100:7f00ff&text=MUDASIR.AI&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=twinkling&desc=AGENTIC%20AI%20ENGINEER%20%7C%20AUTONOMOUS%20SYSTEMS%20ARCHITECT&descAlignY=60&descSize=22"/>
 
 </div>
 
-<br>
-
-<!-- 3. ANIMATED NEURAL SEPARATOR -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=1000&lines=%3E+Booting+MUDASIR.AI...;%3E+Loading+Agentic+AI+Modules...;%3E+Initializing+Reasoning+Engine...;%3E+Connecting+Neural+Networks...;%3E+Deploying+Autonomous+Agents...;%3E+System+Online+%E2%9C%93"/>
+
 </div>
 
-<br>
+---
 
-<table width="100%" style="border: none; background-color: transparent;">
-  <tr style="border: none;">
-    <!-- LEFT COLUMN: LIVE RADAR & IDENTITY -->
-    <td width="35%" align="center" style="border: none;">
-      <img src="https://i.pinimg.com/originals/1c/0f/09/1c0f0980cff1ed1c3cf1ec96a40a5a02.gif" width="180" alt="Radar Scan" />
-      <br>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&color=00FF99&center=true&width=300&lines=[+]+SCANNING_THREATS...;[+]+NO_THREATS_DETECTED;[+]+DEFENSES_ACTIVE" />
-    </td>
-    
-    <!-- RIGHT COLUMN: TERMINAL DATA -->
-    <td width="65%" style="border: none;">
-      <code>
-      <b>[ENTITY_CLASS]</b> : Agentic AI Architect<br>
-      <b>[CORE_STACK_ ]</b> : FastAPI, Python, Linux<br>
-      <b>[VISION_OPTIC]</b> : OpenCV, MediaPipe<br>
-      <b>[OBJECTIVE___]</b> : Build Autonomous Logic Engines<br>
-      <b>[LOCATION____]</b> : Node_Karachi // Earth
-      </code>
-      <br><br>
-      <!-- Interactive Folders -->
-      <details>
-        <summary><b><code style="color:#00d9ff; cursor: pointer;">► DECRYPT_CORE_DIRECTIVE.sh</code></b></summary>
-        <p style="color: #c9d1d9; font-family: monospace;">
-          I engineer AI systems that don't just talk—they execute. My focus is on <b>Agentic Workflows</b> powered by high-speed asynchronous APIs (FastAPI). I bridge the gap between academic theory and real-world autonomous automation.
-        </p>
-      </details>
-    </td>
-  </tr>
-</table>
+# 🧠 SYSTEM OVERVIEW
 
-<br>
+```yaml
+SYSTEM:
+  NAME: Muhammad Mudasir Sheikh
+  ROLE: Agentic AI Engineer
+  STATUS: Online
+  MODE: Learning + Building
+  LOCATION: Earth
+  MISSION: Build Autonomous Intelligence
 
-<!-- ANIMATED NEURAL SEPARATOR -->
+CORE_DIRECTIVE:
+  Transform AI from conversation
+  into execution.
+```
+
+---
+
+# ⚡ WHO AM I?
+
+```python
+class MuhammadMudasir:
+
+    def __init__(self):
+
+        self.role = "Agentic AI Engineer"
+
+        self.education = "BS Computer Science"
+
+        self.focus = [
+            "Agentic AI",
+            "Multi-Agent Systems",
+            "FastAPI",
+            "Computer Vision",
+            "RAG Systems",
+            "LLMs"
+        ]
+
+    def mission(self):
+        return "Build AI that thinks, plans and acts."
+```
+
+---
+
+# 🚀 CURRENT MISSION
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│  BUILDING AUTONOMOUS AI SYSTEMS            │
+│                                            │
+│  ✓ FastAPI APIs                            │
+│  ✓ AI Agents                               │
+│  ✓ Tool Calling Systems                    │
+│  ✓ RAG Pipelines                           │
+│  ✓ Computer Vision Apps                    │
+│  ✓ Multi-Agent Architectures               │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+---
+
+# 🛰 LIVE DEVELOPMENT MATRIX
+
+```text
+Python                ████████████████████ 100%
+
+FastAPI               █████████████████░░  90%
+
+Linux                 ████████████████░░░  85%
+
+Computer Vision       ██████████████░░░░░  75%
+
+Machine Learning      █████████████░░░░░░  70%
+
+RAG Systems           ███████████░░░░░░░░  60%
+
+Agentic AI            ██████████░░░░░░░░░  55%
+
+Multi-Agent Systems   ███████░░░░░░░░░░░░  40%
+```
+
+---
+
+# 🛠 TECH ARSENAL
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
-<br>
-
-<div align="center">
-  <!-- AUTO-TYPING HEADER FOR STATS -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&color=00FF99&center=true&width=600&lines=>>>+FETCHING_LIVE_TELEMETRY_DATA..." />
-</div>
-
-<!-- 4. LIVE TELEMETRY GRAPHS -->
-<div align="center">
-  <!-- Live Activity Pulse Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mudasir-Iqbal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00ff99&point=ffffff&area=true" width="100%" alt="Activity Pulse" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Real-Time GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mudasir-Iqbal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00d9ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudasir-Iqbal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99" height="165" />
-</div>
-
-<br>
-
-<!-- ANIMATED NEURAL SEPARATOR -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- AUTO-TYPING HEADER FOR TECH -->
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=800&size=26&color=00d9ff&center=true&width=600&lines=>>>+ACCESSING_WEAPONIZED_TECH_STACK..." />
-</div>
-
-<!-- 5. ANIMATED TECH ICONS & BADGES -->
-<div align="center">
-  <!-- Skillicons hover animation by default -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,linux,bash,docker,git,github,vscode&theme=dark" alt="Tech Stack" />
-  </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/Agentic_Core-1E1E1E?style=for-the-badge&logo=openai&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/Vision_Optics-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Memory_RAG-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00FF99" />
-  <img src="https://img.shields.io/badge/Dashboards-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</div>
+<img src="https://skillicons.dev/icons?i=python,fastapi,linux,bash,docker,git,github,vscode&theme=dark"/>
 
 <br><br>
 
-<!-- 6. PING & CONNECTION (FOOTER) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=ffffff&center=true&width=400&lines=ESTABLISH_SECURE_CONNECTION_BELOW:" />
-  <br>
-  
-  <a href="https://pk.linkedin.com/in/mudasir-sheikh">
-    <img src="https://img.shields.io/badge/HANDSHAKE-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00FF99"/>
-  </a>
-  <a href="mailto:CSC23S209@stu.smiu.edu.pk">
-    <img src="https://img.shields.io/badge/PING-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=00d9ff"/>
-  </a>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/>
 
-  <br><br>
+<img src="https://img.shields.io/badge/MediaPipe-Real%20Time%20AI-orange?style=for-the-badge"/>
 
-  <!-- Visitor Tracker -->
-  <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=SYSTEM_HITS&color=00ff99&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LangChain-Agent%20Framework-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-LLMs-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge"/>
+
 </div>
 
+---
+
+# 🌐 KNOWLEDGE EVOLUTION MAP
+
+```mermaid
+graph TD
+
+A[Python] --> B[FastAPI]
+
+A --> C[Machine Learning]
+
+C --> D[Neural Networks]
+
+D --> E[Large Language Models]
+
+E --> F[RAG Systems]
+
+F --> G[Agentic AI]
+
+G --> H[Multi-Agent Systems]
+
+H --> I[Autonomous Products]
+```
+
+---
+
+# 🤖 AGENT CORE
+
+```json
+{
+  "memory": true,
+  "reasoning": true,
+  "planning": true,
+  "tool_usage": true,
+  "learning": true,
+  "autonomous_execution": "in_progress"
+}
+```
+
+---
+
+# 📡 LIVE TELEMETRY
+
 <div align="center">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&color=7f00ff&center=true&width=300&lines=CONNECTION_ACTIVE...;END_OF_TRANSMISSION." />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mudasir-Iqbal&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudasir-Iqbal&layout=compact&theme=radical&hide_border=true"/>
+
 </div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasir-Iqbal&theme=radical&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mudasir-Iqbal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION LIFEFORM
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+```text
+[01] Master Agentic AI                     ███████░░░
+
+[02] Build Production AI APIs              ████████░░
+
+[03] Create Multi-Agent Systems            █████░░░░░
+
+[04] Launch AI Startup                     ██░░░░░░░░
+
+[05] Build Something Legendary             █░░░░░░░░░
+```
+
+---
+
+# 📬 COMMUNICATION CHANNELS
+
+<div align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:CSC23S209@stu.smiu.edu.pk">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 FINAL TRANSMISSION
+
+```text
+Most software waits for commands.
+
+The future belongs to systems
+that understand objectives.
+
+I'm building for that future.
+```
+
+<div align="center">
+
+### ⚡ MUDASIR.AI IS UNDER ACTIVE DEVELOPMENT ⚡
+
+<img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=VISITORS&color=00ff99&style=for-the-badge"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,50:00d9ff,100:7f00ff"/>
