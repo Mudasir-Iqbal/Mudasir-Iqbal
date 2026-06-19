@@ -29,10 +29,11 @@
 
 <!-- Cybernetic Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Coding GIF" width="100%" />
 
 </div>
 
----
+
 <p align="right">
   <img 
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tNWdhbGVjeTkzbXlhYnlkbjlhbXJqbG5nbTFxY244dWZvNDlmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G7Y5EbkYe81CuwrJhq/giphy.gif"
