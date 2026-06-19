@@ -33,8 +33,7 @@
 
 
 <p align="right">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tNWdhbGVjeTkzbXlhYnlkbjlhbXJqbG5nbTFxY244dWZvNDlmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G7Y5EbkYe81CuwrJhq/giphy.gif"
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5tNWdhbGVjeTkzbXlhYnlkbjlhbXJqbG5nbTFxY244dWZvNDlmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G7Y5EbkYe81CuwrJhq/giphy.gif"
     width="350"
     alt="Building AI Agents"
   />
