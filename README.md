@@ -1,87 +1,75 @@
 <div align="center">
 
-<!-- Animated Typing Effect -->
+<!-- Animated Typing Effect (Neon Green Tech Theme) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Final-Year+CS+Student+👨‍💻;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Building+Autonomous+Solutions+⚡;Final-Year+Computer+Science+Student+🎓" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <em>"Driven to build intelligent software that solves real-world problems."</em><br>
-  Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.
+  <strong>Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.</strong>
 </p>
 
-<!-- Animated Social Badges -->
+<!-- Profile Views Counter & Quick Connect -->
+<img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
 <a href="https://pk.linkedin.com/in/mudasir-sheikh">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:your.email@stu.smiu.edu.pk">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br><br>
 
-<!-- Futuristic Divider GIF -->
+<!-- Smooth Minimalist Divider Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
 ---
 
-### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 & 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
+### 🧠 About Me & My AI Journey
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
+<img align="right" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
 
-I am a passionate **Final-Year Computer Science Student** specializing in Python development and autonomous systems. I bridge the gap between academic theory and practical implementation by engineering end-to-end AI prototypes and interactive web tools.
+I am a driven **Final-Year Computer Science Student** specializing in Python development and building autonomous systems. My core focus lies in **Agentic AI**—engineering intelligent ecosystems where software doesn't just run line-by-line, but actively reasons, plans, and executes tasks independently. 
 
-- 🔭 **Current Focus:** Developing **Agentic AI** frameworks, reasoning loops, and intelligent multi-agent systems.
-- 🌱 **Continuous Learning:** Deepening expertise in **Python**, Computer Vision (MediaPipe/OpenCV), NLP, and API integrations.
-- ⚙️ **Systems Integration:** Connecting software with physical architecture (Linux, Networking, and high-speed vision pipelines).
-- 🎯 **Career Goal:** Looking for internship or entry-level roles to contribute to cutting-edge AI product development.
-- ⚡ **Fun Fact:** I'm an *Agents Lover* — I believe the true power of AI lies in taking autonomous actions, not just generating text!
+I aim to bridge academic research with practical, industry-ready application through rapid prototyping and deployment.
 
-<br clear="both">
+- 🔭 **Current Focus:** Architectural design of multi-agent frameworks and autonomous agent workflows.
+- 🌱 **Continuous Growth:** Deepening my command over advanced Python, Computer Vision (OpenCV/MediaPipe), and Streamlit web applications.
+- ⚙️ **Systems Integration:** Bridging high-level AI software with low-level physical architectures, network optimization, and Linux environments.
+- 🎯 **Career Goal:** Actively seeking professional internships or entry-level roles to solve complex, real-world problems alongside cutting-edge engineering teams.
+- ⚡ **Fun Fact:** I'm an *Agents Lover*—I firmly believe the true power of AI manifests in autonomous action, not just static conversations.
 
 ---
 
-### 🚀 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+### 🚀 Technical Core & Tooling
+*Dynamic repository stack visualizing languages, vision frameworks, and developer environments.*
 
 <div align="center">
-  
-  <!-- Dynamic Icons -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,linux,opencv,git,github,vscode,bash&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,opencv,streamlit,linux,bash,git,github,vscode&theme=dark" alt="Tech Stack" />
   </a>
-  
-  <br><br>
-  
-  <!-- Specific Frameworks Badges -->
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
-  <img src="https://img.shields.io/badge/MediaPipe-00B2FF?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-
 </div>
 
 ---
 
-### 📂 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 (𝗨𝗻𝗱𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁)
-> *My repositories reflect my drive to build functional applications that leverage modern machine learning techniques.*
+### 📂 Featured Research & Engineering (In Development)
+> *As a final-year specialist, I am currently architecting end-to-end setups showcasing intelligent routing and interactive interfaces.*
 
-*   🤖 **AI Agent Workflows:** Experimenting with logic-based reasoning loops and multi-agent problem-solving setups.
-*   📊 **Streamlit Web Applications:** Designing and deploying interactive UI dashboards for AI/ML models.
-*   👁️ **Computer Vision Tools:** Utilizing OpenCV for real-time object detection and facial landmark analysis.
+* 🤖 **Autonomous Agent Frameworks:** Researching custom reasoning loops, memory injection, and task execution workflows.
+* 🖥️ **Streamlit Web Diagnostics:** Developing fluid, high-performance UI environments to present complex AI and Computer Vision models.
 
 ---
 
-<div align="center">
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing ke liye -->
+### 🤝 Let's Connect
 
-  <!-- High-Impact LinkedIn Button -->
+I am highly active in the professional tech community and always open to discussing system architectures, agent workflows, or potential industrial hiring opportunities.
+
+<div align="center">
   <a href="https://pk.linkedin.com/in/mudasir-sheikh">
     <img src="https://img.shields.io/badge/Connect_with_Muhammad_Mudasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-
 </div>
+
+---
+<p align="center">
+  <i>"Driven to build intelligent software that shifts automation from rule-based to reason-based."</i>
+</p>
