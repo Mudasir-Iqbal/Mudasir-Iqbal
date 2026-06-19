@@ -1,86 +1,196 @@
-<!-- Animated Header Banner -->
+
+
+
+
+
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=250&section=header&text=Muhammad%20Mudasir%20Sheikh&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Agentic%20AI%20Architect%20|%20Python%20Developer&descAlignY=55&descSize=20&animation=twinkling"/>
+
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Building+Autonomous+Solutions+⚡;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <em>Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.</em>
+</p>
+
+<!-- Animated Social Badges -->
+<a href="https://pk.linkedin.com/in/mudasir-sheikh">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:your.email@stu.smiu.edu.pk">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 </div>
 
-<br>
+---
+
+### 🚀 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+*Ye section auto-generated dynamic icons use karta hai.*
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=600&height=50&lines=Final-Year+CS+Student+%40+SMIU+🎓;Engineering+Autonomous+AI+Agents+🤖;Mastering+Computer+Vision+%26+NLP+👁️" alt="Typing SVG" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,linux,opencv,git,github,vscode,bash&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
+---
+
+### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
+
+- 🔭 **Current Focus:** Engineering **Agentic AI** frameworks and autonomous multi-agent systems.
+- 🌱 **Continuous Learning:** Deepening expertise in **Python**, Computer Vision (MediaPipe/OpenCV), and NLP.
+- ⚙️ **Hardware & Systems:** Bridging software with physical systems (Networking, Linux architectures, and high-speed vision integration).
+- 🤝 **Collaboration:** Actively looking to collaborate on Open-Source AI projects, autonomous bots, and intelligent data pipelines.
+- ⚡ **Fun Fact:** I'm an *Agents Lover* — I believe the true power of AI lies in action, not just conversation!
+
+<br><br>
+
+---
+
+<div align="center">
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing ke liye -->
+
+  <!-- High-Impact LinkedIn Button -->
+  <a href="https://pk.linkedin.com/in/mudasir-sheikh">
+    <img src="https://img.shields.io/badge/Connect_with_Muhammad_Mudasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+
+</div>
+
+
+
+# Hey there! I'm Muhammad Mudasir Sheikh 👋 
 <p align="center">
-  <a href="https://pk.linkedin.com/in/mudasir-sheikh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@stu.smiu.edu.pk"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0077B5&width=435&lines=Agentic+AI+Enthusiast;Python+Developer;Computer+Vision+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🤖 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 & 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗙𝗼𝗰𝘂𝘀
+### 🚀 About Me
 
-<img align="right" width="320" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding.gif" alt="Hacker GIF" />
+I am a passionate **Final-Year Computer Science Student** specializing in Python development and building autonomous systems. My core focus is on **Agentic AI**—creating intelligent systems that can reason, plan, and execute tasks independently. 
 
-I am a computer science developer transitioning from academic theory into building **production-grade AI systems**. My core passion is **Agentic AI**—moving beyond chatbots to create systems that can reason, plan, and autonomously execute complex workflows.
+I bridge the gap between academic theory and practical implementation by building functional AI prototypes and web applications.
 
-- 🧠 **Primary Matrix:** Agentic Workflows, Multi-Agent Systems, Machine Learning.
-- ⚡ **Backend Architectures:** Engineering high-performance, asynchronous APIs using **FastAPI** to serve complex AI models and agentic logic.
-- 👁️ **Vision Pipelines:** Real-time object detection and facial landmarks (OpenCV, MediaPipe).
-- ⚙️ **System Operations:** Bridging software with core infrastructure, including Linux environments, network architectures, and distributed systems.
-- 🎯 **Current Objective:** Developing robust **FastAPI** endpoints to power autonomous AI agents, alongside interactive Streamlit dashboards for real-time telemetry.
-
-<br clear="both">
+- 🧠 **Areas of Interest:** Agentic AI, Multi-Agent Frameworks, and Computer Vision Applications.
+- 🛠️ **Current Focus:** Deepening expertise in Python pipelines, API integrations, and Streamlit deployment.
+- 🎯 **Career Goal:** Looking for internship or entry-level roles where I can contribute to cutting-edge AI development.
+- 💞️ **Collaboration:** Open to joining open-source projects or hackathons centered around AI Agents.
 
 ---
 
-### 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗲𝗹𝗲𝗺𝗲𝘁𝗿𝘆 & 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆
+### 🛠️ Technical Skill Set
+
+<p align="left">
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <!-- Streamlit -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <!-- OpenCV / CV -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <!-- Git/Github -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📂 Featured Projects (Coming Soon / Under Development)
+> *As a final-year student, I am currently engineering end-to-end applications including interactive web tools and intelligent agent workflows. Check out my repositories below!*
+
+*   **AI Agent Workflows:** Experimenting with reasoning loops and multi-agent setups.
+*   **Streamlit Web Applications:** Building interactive UI dashboards for AI models.
+
+---
+
+### 🤝 Professional Network
+
+Let's connect! I am highly active on LinkedIn and always eager to discuss AI innovations, career opportunities, or project collaborations.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/mudasir-sheikh)
+
+---
+<p align="center">
+  <i>"Driven to build intelligent software that solves real-world problems."</i>
+</p>
+
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <a href="https://github.com/Mudasir-Iqbal">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasir-Iqbal&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Building+Autonomous+Solutions+⚡;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <em>Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.</em>
+</p>
+
+<!-- Animated Social Badges -->
+<a href="https://pk.linkedin.com/in/mudasir-sheikh">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:your.email@stu.smiu.edu.pk">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+</div>
+
+---
+
+### 🚀 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
+*Ye section auto-generated dynamic icons use karta hai.*
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,linux,opencv,git,github,vscode,bash&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <!-- Side by Side Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mudasir-Iqbal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudasir-Iqbal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Live Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mudasir-Iqbal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF" width="100%" />
-</div>
-
 ---
 
-### 🛠️ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸
+### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
 
-<div align="center">
-  <h4>Languages & Backend Architecture</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,bash,linux&theme=dark" /></a>
-  <br><br>
-  <h4>Computer Vision & DevOps</h4>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv,docker,git,vscode&theme=dark" /></a>
-  <br><br>
-  <h4>Agentic AI Frameworks</h4>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <br><br>
-  <h4>Data & UI Dashboards</h4>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-00B2FF?style=for-the-badge&logo=google&logoColor=white" />
-</div>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
+
+- 🔭 **Current Focus:** Engineering **Agentic AI** frameworks and autonomous multi-agent systems.
+- 🌱 **Continuous Learning:** Deepening expertise in **Python**, Computer Vision (MediaPipe/OpenCV), and NLP.
+- ⚙️ **Hardware & Systems:** Bridging software with physical systems (Networking, Linux architectures, and high-speed vision integration).
+- 🤝 **Collaboration:** Actively looking to collaborate on Open-Source AI projects, autonomous bots, and intelligent data pipelines.
+- ⚡ **Fun Fact:** I'm an *Agents Lover* — I believe the true power of AI lies in action, not just conversation!
+
+<br><br>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=SYSTEM+HITS&color=00FF99&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=PROFILE+VIEWS&color=00FF99&style=for-the-badge" alt="Profile Views" />
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing ke liye -->
+
+  <!-- High-Impact LinkedIn Button -->
+  <a href="https://pk.linkedin.com/in/mudasir-sheikh">
+    <img src="https://img.shields.io/badge/Connect_with_Muhammad_Mudasir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+
 </div>
+
