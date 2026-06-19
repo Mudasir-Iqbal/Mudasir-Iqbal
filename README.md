@@ -39,9 +39,9 @@ I am a computer science developer transitioning from academic theory into buildi
 ### 🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗲𝗹𝗲𝗺𝗲𝘁𝗿𝘆 & 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀
 
 <div align="center">
-  <!-- GitHub Trophies -->
+  <!-- GitHub Trophies (Optimized) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mudasir-Iqbal&theme=radical&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Mudasir-Iqbal&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
