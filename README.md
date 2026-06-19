@@ -2,11 +2,12 @@
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Building+Autonomous+Solutions+⚡;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Muhammad+Mudasir+Sheikh+👋;Architecting+Agentic+AI+Systems+🤖;Final-Year+CS+Student+👨‍💻;Mastering+Python+%26+Computer+Vision+👁️" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <em>Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.</em>
+  <em>"Driven to build intelligent software that solves real-world problems."</em><br>
+  Passionate about Machine Intelligence, Agentic Workflows, and Next-Gen Automation.
 </p>
 
 <!-- Animated Social Badges -->
@@ -19,34 +20,55 @@
 
 <br><br>
 
+<!-- Futuristic Divider GIF -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
 ---
 
+### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 & 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
+
+I am a passionate **Final-Year Computer Science Student** specializing in Python development and autonomous systems. I bridge the gap between academic theory and practical implementation by engineering end-to-end AI prototypes and interactive web tools.
+
+- 🔭 **Current Focus:** Developing **Agentic AI** frameworks, reasoning loops, and intelligent multi-agent systems.
+- 🌱 **Continuous Learning:** Deepening expertise in **Python**, Computer Vision (MediaPipe/OpenCV), NLP, and API integrations.
+- ⚙️ **Systems Integration:** Connecting software with physical architecture (Linux, Networking, and high-speed vision pipelines).
+- 🎯 **Career Goal:** Looking for internship or entry-level roles to contribute to cutting-edge AI product development.
+- ⚡ **Fun Fact:** I'm an *Agents Lover* — I believe the true power of AI lies in taking autonomous actions, not just generating text!
+
+<br clear="both">
+
+---
+
 ### 🚀 𝗗𝘆𝗻𝗮𝗺𝗶𝗰 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
-*Ye section auto-generated dynamic icons use karta hai.*
 
 <div align="center">
+  
+  <!-- Dynamic Icons -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,linux,opencv,git,github,vscode,bash&theme=dark" alt="Tech Stack" />
   </a>
+  
+  <br><br>
+  
+  <!-- Specific Frameworks Badges -->
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/MediaPipe-00B2FF?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+
 </div>
 
 ---
 
-### 🧠 𝗔𝗯𝗼𝘂𝘁 𝗠𝘆 𝗔𝗜 𝗝𝗼𝘂𝗿𝗻𝗲𝘆
+### 📂 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 (𝗨𝗻𝗱𝗲𝗿 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁)
+> *My repositories reflect my drive to build functional applications that leverage modern machine learning techniques.*
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF" />
-
-- 🔭 **Current Focus:** Engineering **Agentic AI** frameworks and autonomous multi-agent systems.
-- 🌱 **Continuous Learning:** Deepening expertise in **Python**, Computer Vision (MediaPipe/OpenCV), and NLP.
-- ⚙️ **Hardware & Systems:** Bridging software with physical systems (Networking, Linux architectures, and high-speed vision integration).
-- 🤝 **Collaboration:** Actively looking to collaborate on Open-Source AI projects, autonomous bots, and intelligent data pipelines.
-- ⚡ **Fun Fact:** I'm an *Agents Lover* — I believe the true power of AI lies in action, not just conversation!
-
-<br><br>
+*   🤖 **AI Agent Workflows:** Experimenting with logic-based reasoning loops and multi-agent problem-solving setups.
+*   📊 **Streamlit Web Applications:** Designing and deploying interactive UI dashboards for AI/ML models.
+*   👁️ **Computer Vision Tools:** Utilizing OpenCV for real-time object detection and facial landmark analysis.
 
 ---
 
@@ -63,4 +85,3 @@
   </a>
 
 </div>
-
