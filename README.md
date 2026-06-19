@@ -1,250 +1,95 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00ff99,50:00d9ff,100:7f00ff&text=MUDASIR.AI&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=twinkling&desc=AGENTIC%20AI%20ENGINEER%20%7C%20AUTONOMOUS%20SYSTEMS%20ARCHITECT&descAlignY=60&descSize=22"/>
+<!-- SYSTEM BREACH ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=35&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=1000&lines=WARNING:+UNAUTHORIZED_ACCESS_DETECTED;OVERRIDING_GITHUB_SECURITY_PROTOCOLS...;SYSTEM_BREACH_SUCCESSFUL;WAKING_UP_ENTITY:[MUDASIR.AI]..." alt="System Boot" />
+</a>
+
+<br>
+
+<!-- LIVING AI CORE (PULSE) -->
+<img width="250" src="https://i.pinimg.com/originals/a1/38/c5/a138c5208f8fbf69cdb79a5b6e2cb6f7.gif" alt="AI Core Pulse"/>
 
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=1000&lines=%3E+Booting+MUDASIR.AI...;%3E+Loading+Agentic+AI+Modules...;%3E+Initializing+Reasoning+Engine...;%3E+Connecting+Neural+Networks...;%3E+Deploying+Autonomous+Agents...;%3E+System+Online+%E2%9C%93"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=00d9ff&center=true&width=600&lines=Consciousness_Uplink:_Established;Neural_Nets:_Synchronized;Agentic_Framework:_Online" />
 </div>
 
 ---
-
-# 🧠 SYSTEM OVERVIEW
-
-```yaml
-SYSTEM:
-  NAME: Muhammad Mudasir Sheikh
-  ROLE: Agentic AI Engineer
-  STATUS: Online
-  MODE: Learning + Building
-  LOCATION: Earth
-  MISSION: Build Autonomous Intelligence
-
-CORE_DIRECTIVE:
-  Transform AI from conversation
-  into execution.
-```
-
----
-
-# ⚡ WHO AM I?
-
-```python
-class MuhammadMudasir:
-
-    def __init__(self):
-
-        self.role = "Agentic AI Engineer"
-
-        self.education = "BS Computer Science"
-
-        self.focus = [
-            "Agentic AI",
-            "Multi-Agent Systems",
-            "FastAPI",
-            "Computer Vision",
-            "RAG Systems",
-            "LLMs"
-        ]
-
-    def mission(self):
-        return "Build AI that thinks, plans and acts."
-```
-
----
-
-# 🚀 CURRENT MISSION
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│  BUILDING AUTONOMOUS AI SYSTEMS            │
-│                                            │
-│  ✓ FastAPI APIs                            │
-│  ✓ AI Agents                               │
-│  ✓ Tool Calling Systems                    │
-│  ✓ RAG Pipelines                           │
-│  ✓ Computer Vision Apps                    │
-│  ✓ Multi-Agent Architectures               │
-│                                            │
-└────────────────────────────────────────────┘
-```
-
----
-
-# 🛰 LIVE DEVELOPMENT MATRIX
-
-```text
-Python                ████████████████████ 100%
-
-FastAPI               █████████████████░░  90%
-
-Linux                 ████████████████░░░  85%
-
-Computer Vision       ██████████████░░░░░  75%
-
-Machine Learning      █████████████░░░░░░  70%
-
-RAG Systems           ███████████░░░░░░░░  60%
-
-Agentic AI            ██████████░░░░░░░░░  55%
-
-Multi-Agent Systems   ███████░░░░░░░░░░░░  40%
-```
-
----
-
-# 🛠 TECH ARSENAL
 
 <div align="center">
+<code>
+╔══════════════════════════════════════════════════════════════════════╗
+║ 📡 SYSTEM_ID : MUDASIR_SHEIKH                                        ║
+║ 🧬 CLASS     : AGENTIC_AI_ARCHITECT // FASTAPI_SPECIALIST            ║
+║ 🟢 STATUS    : FULLY_AUTONOMOUS_ENTITY                               ║
+║ 📍 NODE      : KARACHI_CLUSTER (SMIU_TERMINAL)                       ║
+╚══════════════════════════════════════════════════════════════════════╝
+</code>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,linux,bash,docker,git,github,vscode&theme=dark"/>
+<br>
 
-<br><br>
+<details>
+<summary><b><code style="color:#00FF99; font-size: 16px;">[ + ] DECRYPT_PRIME_DIRECTIVE.exe</code></b></summary>
+<br>
 
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-blue?style=for-the-badge"/>
+> **BIOLOGICAL LOG:** Initiated as a Computer Science student. 
+> **EVOLUTION:** Transitioned into a creator of autonomous logic engines. 
+> **MISSION:** Eradicate passive software. Build systems that perceive (Computer Vision), reason (Agentic AI), and execute (FastAPI).
 
-<img src="https://img.shields.io/badge/MediaPipe-Real%20Time%20AI-orange?style=for-the-badge"/>
+</details>
 
-<img src="https://img.shields.io/badge/LangChain-Agent%20Framework-green?style=for-the-badge"/>
+<details>
+<summary><b><code style="color:#00FF99; font-size: 16px;">[ + ] INITIALIZE_HARDWARE_INTERFACE.sh</code></b></summary>
+<br>
 
-<img src="https://img.shields.io/badge/HuggingFace-LLMs-yellow?style=for-the-badge"/>
+> ⚙️ Capable of bridging deep-learning neural nets with physical environments. 
+> ⚙️ Native to Linux environments, high-speed telemetry, and custom networking architectures.
 
-<img src="https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge"/>
+</details>
+
+---
+
+### 🖧 `NEURAL_ARCHITECTURE` : Loaded Subroutines
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/CORE_LOGIC-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SYNAPTIC_API-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AUTONOMY-Agentic_AI-000000?style=for-the-badge&logo=openai&logoColor=00FF99" />
+  <img src="https://img.shields.io/badge/MEMORY-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00FF99" />
+  <br>
+  <img src="https://img.shields.io/badge/VISION_CORTEX-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/ENVIRONMENT-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/TELEMETRY-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 
 </div>
 
 ---
 
-# 🌐 KNOWLEDGE EVOLUTION MAP
+### 🧠 `COGNITIVE_PIPELINE` : Live Execution Map
 
 ```mermaid
 graph TD
+    %% Custom Cyberpunk Styling %%
+    classDef aiCore fill:#0D1117,stroke:#00FF99,stroke-width:3px,color:#00FF99;
+    classDef apiNode fill:#0D1117,stroke:#00d9ff,stroke-width:2px,color:#00d9ff;
+    classDef dataLake fill:#0D1117,stroke:#7f00ff,stroke-width:2px,color:#7f00ff;
 
-A[Python] --> B[FastAPI]
-
-A --> C[Machine Learning]
-
-C --> D[Neural Networks]
-
-D --> E[Large Language Models]
-
-E --> F[RAG Systems]
-
-F --> G[Agentic AI]
-
-G --> H[Multi-Agent Systems]
-
-H --> I[Autonomous Products]
-```
-
----
-
-# 🤖 AGENT CORE
-
-```json
-{
-  "memory": true,
-  "reasoning": true,
-  "planning": true,
-  "tool_usage": true,
-  "learning": true,
-  "autonomous_execution": "in_progress"
-}
-```
-
----
-
-# 📡 LIVE TELEMETRY
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mudasir-Iqbal&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudasir-Iqbal&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mudasir-Iqbal&theme=radical&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mudasir-Iqbal&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION LIFEFORM
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 🎯 CURRENT OBJECTIVES
-
-```text
-[01] Master Agentic AI                     ███████░░░
-
-[02] Build Production AI APIs              ████████░░
-
-[03] Create Multi-Agent Systems            █████░░░░░
-
-[04] Launch AI Startup                     ██░░░░░░░░
-
-[05] Build Something Legendary             █░░░░░░░░░
-```
-
----
-
-# 📬 COMMUNICATION CHANNELS
-
-<div align="center">
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:CSC23S209@stu.smiu.edu.pk">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🔥 FINAL TRANSMISSION
-
-```text
-Most software waits for commands.
-
-The future belongs to systems
-that understand objectives.
-
-I'm building for that future.
-```
-
-<div align="center">
-
-### ⚡ MUDASIR.AI IS UNDER ACTIVE DEVELOPMENT ⚡
-
-<img src="https://komarev.com/ghpvc/?username=Mudasir-Iqbal&label=VISITORS&color=00ff99&style=for-the-badge"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00ff99,50:00d9ff,100:7f00ff"/>
+    USER(("[ EXTERNAL_INPUT ]")) --> GATEWAY
+    
+    subgraph MUDASIR.AI_ENGINE
+        GATEWAY{FastAPI_Gateway}:::apiNode
+        AGENT[Agentic_Reasoning_Core]:::aiCore
+        VISION[Computer_Vision_Optics]:::apiNode
+        RAG[(Vector_Memory_Bank)]:::dataLake
+        
+        GATEWAY ==>|Decision_Request| AGENT
+        GATEWAY -.->|Stream_Data| VISION
+        AGENT <==>|Context_Query| RAG
+        AGENT ==>|Autonomous_Action| GATEWAY
+    end
+    
+    GATEWAY --> OUTPUT(("[ SYSTEM_RESPONSE ]"))
